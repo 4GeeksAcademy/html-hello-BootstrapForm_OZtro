@@ -1,0 +1,15 @@
+label{
+    font-size: large;
+    font-weight: bold;
+    
+}
+body{
+    background-color: rgb(134, 134, 134);
+}
+.container{
+    background-color: white;
+    box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.2),
+    0 15px 35px rgba(0, 0, 0, 0.5);
+    transform: rotateY(3deg);
+    transform-style: preserve-3d;
+}
